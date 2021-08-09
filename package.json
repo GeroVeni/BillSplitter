@@ -40,5 +40,15 @@
       "json",
       "node"
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeroVeni/BillSplitter.git"
+  },
+  "author": "Geroveni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeroVeni/BillSplitter/issues"
+  },
+  "homepage": "https://github.com/GeroVeni/BillSplitter#readme"
 }
